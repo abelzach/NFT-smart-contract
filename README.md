@@ -1,2 +1,7 @@
 # NFT-smart-contract
-ERC721
+
+![logo](/pic1.png?raw=true)
+
+![logo](/pic2.png?raw=true)
+
+![logo](/pic3.png?raw=true)
